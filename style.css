@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #000000;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  font-size: 8rem;
+  color: blue;
+  transition: 0.4s ease-in-out;
+}
+
+h2 {
+  color: white;
+}
